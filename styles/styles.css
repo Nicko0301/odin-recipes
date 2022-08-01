@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: rgb(234, 156, 156);
+    color: black;
+    margin-bottom: 0px;
+}
+
+h2 {
+    background-color: yellow;
+    color: white; 
+}
+
+ul {
+    background-color:cyan;
+    color: red;
+    margin-top: 0px;
+}
+
+li {
+    height: 40px;
+    padding: 10px;
+    color: red;
+}
+
+img {
+    height:auto;
+    width: 300px;
+}
